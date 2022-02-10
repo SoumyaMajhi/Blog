@@ -1,0 +1,48 @@
+/*-----------------------------TAG SELECTORS------------------------------*/
+
+body{
+  background-color:#CCA8E9;
+}
+hr{
+  background-color:#CCA8E9;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #F0F0F0;
+  border-width: 5px;
+  width: 10%;
+}
+h1{
+  color: #DEFCF9;
+}
+h3{
+  color: #DEFCF9;
+}
+h4{
+  color: #DEFCF9;
+}
+
+img:hover{
+  /*background-color: #08D9D6;*/
+  transform: scale(1.5);
+  transition: transform 0.2s;
+}
+h1:hover{
+  transform: scale(1.1);
+  transition: transform 0.2s;
+}
+.heading:hover{
+  transform: scale(1.1);
+  transition: transform 0.2s;
+}
+
+/*-----------------------------CLASS SELECTORS------------------------------*/
+
+.heading{
+  color: #FF2E63;
+}
+
+/*-----------------------------CLASS SELECTORS------------------------------*/
+
+#skills{
+  color: #11999E;
+}
